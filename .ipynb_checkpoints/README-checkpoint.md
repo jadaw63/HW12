@@ -13,4 +13,3 @@ Q. Which coin had the highest positive score?
 A: Bitcoin has the highest positive score at 0.252000. 
 ## Word Cloud
 At this point, I had an issue in finding the right category to find Bitcoin.
-
